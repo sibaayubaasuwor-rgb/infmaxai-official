@@ -1,0 +1,21 @@
+{
+  "name": "infmaxai-launch",
+  "version": "1.0.0",
+  "description": "InfmaxAI - Coming Soon Page",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured for static HTML'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "infmaxai",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {}
+}
